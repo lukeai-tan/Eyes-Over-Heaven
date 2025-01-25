@@ -9,10 +9,10 @@ To use the program, just input the number associated with the sort shown on the 
 I increased the delay time between each comparison to make the swaps more noticeable, which is more of a personal choice. The sorting time is way too fast to see the process normally.
 
 ### Bubble Sort
--
+NA
 
 ### Merge Sort
--
+NA
 
 ### Quick Sort (WIP)
 The visualisation for quick sort is pretty janky. There is a lot going on that I couldn't translate visually. It is a work in progress.
