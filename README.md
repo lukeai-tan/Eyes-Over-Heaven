@@ -2,6 +2,9 @@
 
 ## Description
 I designed a visualiser that offers 5 sorting algorithms for visualisation. I took inspiration for the name "Eyes Over Heaven" from JoJo's Bizarre Adventure's "Made In Heaven" because it depicts rapid time acceleration, similar to how this program visualises sorting. 
+
+![image](https://github.com/user-attachments/assets/9f4e5337-b907-4cb0-aff4-10911fd8759c)
+
 To use the program, just input the number associated with the sort shown on the terminal.
 
 ## Sorting Algorithms
