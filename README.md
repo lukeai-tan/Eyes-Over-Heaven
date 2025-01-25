@@ -1,7 +1,7 @@
 # Eyes Over Heaven - Visual Sorting Algorithm
 
 ## Description
-I designed a visualiser that offers 5 sorting algorithms for visualisation. 
+I designed a visualiser that offers 5 sorting algorithms for visualisation. I took inspiration for the name "Eyes Over Heaven" from JoJo's Bizarre Adventure's "Made In Heaven" because it depicts rapid time acceleration, similar to how this program visualises sorting.
 
 ## Sorting Algorithms
 ### Insertion Sort
